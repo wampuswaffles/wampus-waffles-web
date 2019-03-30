@@ -167,6 +167,7 @@ img::-moz-selection {
 
 header.masthead {
     text-align: center;
+    height: 100vh;
     color: #fff;
     background-image: url(../img/header/6.jpg);
     background-repeat: no-repeat;
